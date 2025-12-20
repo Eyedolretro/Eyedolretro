@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Eyedolretro
 
-<!--
-**Eyedolretro/Eyedolretro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Développeur Python
 
-Here are some ideas to get you started:
+Développeur Python passionné, je conçois des scripts, des outils et des applications pour résoudre des problèmes concrets : automatisation, scraping, traitement de données et applications backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je construis régulièrement des projets personnels afin de renforcer mes compétences et de me rapprocher des conditions réelles du monde professionnel.
+
+---
+
+## 🛠️ Compétences techniques
+
+- Python
+- Programmation orientée objet
+- Web scraping
+- Manipulation de fichiers (CSV, JSON)
+- Git & GitHub
+- Bases du développement backend
+
+---
+
+## 📂 Projets sélectionnés
+
+Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en Python, notamment :
+- scripts d’automatisation
+- projets de scraping web
+- applications et outils en ligne de commande
+- projets d’apprentissage structurés
+
+👉 Consultez la section **Repositories** pour voir mes projets.
+
+---
+
+## 🎯 Objectif
+
+Je suis actuellement à la recherche d’opportunités (missions, freelance ou poste junior) afin de mettre mes compétences en pratique et continuer à progresser en tant que développeur Python.
+
+---
+
+## 📫 Me contacter
+
+- GitHub : https://github.com/Eyedolretro
+
+N’hésitez pas à consulter mes projets ou à me contacter.
+
