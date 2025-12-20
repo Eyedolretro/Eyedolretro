@@ -74,6 +74,26 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 
 
 
+### 📌 decima_10
+[Voir le projet sur GitHub](https://github.com/Eyedolretro/decima_10)
+
+**Description courte :** Projet Python permettant la création et la gestion de tickets, avec tests et interactions via CURL, Postman et la journalisation des actions pour un suivi efficace.
+
+**Fonctionnalités principales :**
+- Création, modification et suivi de tickets  
+- Tests des endpoints avec Postman et CURL  
+- Journalisation et suivi des actions (logging)  
+- Gestion des erreurs et validation des données  
+
+**Technologies utilisées :** Python, CURL, Postman, logging
+
+**Ce que j’ai appris :**
+- Interaction avec des API et endpoints via CURL et Postman  
+- Gestion et suivi d’événements avec logging en Python  
+- Structuration et tests d’une application backend simple
+
+
+
 
 
 
