@@ -53,6 +53,26 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 - Structurer une application Python côté backend  
 - Gestion des données JSON et affichage dynamique
 
+### 📌 django-critique
+[Voir le projet sur GitHub](https://github.com/Eyedolretro/django-critique)
+
+**Description courte :** Application web en Python/Django permettant de créer un profil utilisateur, publier et consulter des critiques de livres, et suivre l’activité des autres utilisateurs, un peu comme un réseau social pour les amateurs de livres.
+
+**Fonctionnalités principales :**
+- Création et gestion de profil utilisateur  
+- Publication et consultation de critiques de livres  
+- Suivi des utilisateurs et visualisation du flux d’activité  
+- Gestion des relations “abonnés / abonnements”  
+
+**Technologies utilisées :** Python, Django, HTML/CSS, SQLite (ou autre base), Bootstrap (optionnel)
+
+**Ce que j’ai appris :**
+- Développement d’une application web complète avec Django  
+- Gestion des utilisateurs et authentification  
+- Modélisation de base de données relationnelle  
+- Création d’un flux dynamique et suivi d’utilisateurs
+
+
 
 
 
