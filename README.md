@@ -27,7 +27,14 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 - applications et outils en ligne de commande
 - projets d’apprentissage structurés
 
-👉 Consultez la section **Repositories** pour voir mes projets.
+
+### 📌 booksToScrape
+[Voir le projet sur GitHub](https://github.com/Eyedolretro/booksToScrape)
+
+**Description courte :** Script Python de web scraping qui collecte des informations sur des livres et les exporte en CSV.
+
+**Technologies :** Python, Requests, BeautifulSoup, Pandas
+
 
 
 
