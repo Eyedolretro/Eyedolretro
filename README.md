@@ -35,6 +35,25 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 
 **Technologies :** Python, Requests, BeautifulSoup, Pandas
 
+### 📌 API_films
+[Voir le projet sur GitHub](https://github.com/Eyedolretro/API_films)
+
+**Description courte :** Application Python qui consomme une API de films pour afficher des informations détaillées (titre, synopsis, note, image), similaire à une page Netflix.
+
+**Fonctionnalités principales :**
+- Consultation d’une liste de films depuis une API publique  
+- Affichage du titre, du synopsis, de la note et de l’affiche du film  
+- Filtrage et recherche de films par titre ou genre  
+- Gestion des erreurs et réponses de l’API
+
+**Technologies utilisées :** Python, Requests, Flask (si appli web), JSON
+
+**Ce que j’ai appris :**
+- Consommer et manipuler des données via une API REST  
+- Structurer une application Python côté backend  
+- Gestion des données JSON et affichage dynamique
+
+
 
 
 
