@@ -133,6 +133,27 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 - Suivi et résolution d’erreurs en production avec Sentry
 
 
+### 📌 chess
+[Voir le projet sur GitHub](https://github.com/Eyedolretro/chess)
+
+**Description courte :** Application Python structurée en mode MVC (Modèle, Vue, Contrôleur) permettant de gérer une base de données complète d’un championnat d’échecs, incluant joueurs, parties et résultats.
+
+**Fonctionnalités principales :**
+- Gestion d’une base de données de joueurs et parties d’échecs  
+- Suivi des scores et classement des participants  
+- Architecture MVC pour séparer clairement le modèle, la vue et le contrôleur  
+- Gestion et manipulation des données avec Python  
+
+**Technologies utilisées :** Python, MVC, SQLite (ou autre base de données), scripts Python
+
+**Ce que j’ai appris :**
+- Conception et structuration d’un projet en mode MVC  
+- Gestion de bases de données relationnelles pour un championnat  
+- Séparation logique du code pour améliorer la maintenabilité  
+- Bonnes pratiques de développement Python pour des projets structurés
+
+
+
 
 
 
