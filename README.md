@@ -93,6 +93,27 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 - Structuration et tests d’une application backend simple
 
 
+### 📌 Projet12
+[Voir le projet sur GitHub](https://github.com/Eyedolretro/Projet12)
+
+**Description courte :** Application Python permettant à des clients de gérer des événements via une API, avec création, suivi et modification des événements.
+
+**Fonctionnalités principales :**
+- Création et gestion d’événements par des clients  
+- Consultation et mise à jour des événements via une API REST  
+- Gestion des erreurs et validations des données  
+- Test des endpoints pour assurer la fiabilité de l’API  
+
+**Technologies utilisées :** Python, Flask (ou Django REST), Postman, CURL, JSON
+
+**Ce que j’ai appris :**
+- Développement et structuration d’une API REST  
+- Gestion et validation des données côté serveur  
+- Tests d’API avec Postman et CURL  
+- Organisation d’un projet backend modulable
+
+
+
 
 
 
