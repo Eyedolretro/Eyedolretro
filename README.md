@@ -21,12 +21,14 @@ Je construis régulièrement des projets personnels afin de renforcer mes compé
 
 ## 📂 Projets sélectionnés
 
-### 📌 booksToScrape
-[Voir le projet sur GitHub](https://github.com/Eyedolretro/booksToScrape)
+Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en Python, notamment :
+- scripts d’automatisation
+- projets de scraping web
+- applications et outils en ligne de commande
+- projets d’apprentissage structurés
 
-**Description courte :** Script Python de web scraping qui collecte des informations sur des livres et les exporte en CSV.
+👉 Consultez la section **Repositories** pour voir mes projets.
 
-**Technologies :** Python, Requests, BeautifulSoup, Pandas
 
 
 ---
