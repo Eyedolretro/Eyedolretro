@@ -113,6 +113,27 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 - Organisation d’un projet backend modulable
 
 
+### 📌 Projet13
+[Voir le projet sur GitHub](https://github.com/Eyedolretro/Projet13)
+
+**Description courte :** Projet Python avancé intégrant une architecture modulable, déploiement cloud et suivi d’erreurs avec Sentry, avec orchestration via Docker et pipeline CI/CD.
+
+**Fonctionnalités principales :**
+- Déploiement et gestion d’une application sur le cloud Oracle  
+- Architecture modulable pour faciliter la maintenance et l’évolution  
+- Suivi et gestion des erreurs avec Sentry  
+- Conteneurisation avec Docker et mise en place d’un pipeline CI/CD  
+
+**Technologies utilisées :** Python, Docker, Sentry, Oracle Cloud, CI/CD pipeline, architecture modulaire
+
+**Ce que j’ai appris :**
+- Gestion complète du cycle de vie d’une application (développement → déploiement)  
+- Mise en place et utilisation d’un pipeline CI/CD  
+- Conteneurisation et orchestration avec Docker  
+- Suivi et résolution d’erreurs en production avec Sentry
+
+
+
 
 
 
