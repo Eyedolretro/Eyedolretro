@@ -29,6 +29,7 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 
 
 ### 📌 booksToScrape
+Voir la démonstration du projet sur :https://youtu.be/78tS371jfiQ
 [Voir le projet sur GitHub](https://github.com/Eyedolretro/booksToScrape)
 
 **Description courte :** Script Python de web scraping qui collecte des informations sur des livres et les exporte en CSV.
@@ -134,6 +135,7 @@ Vous trouverez sur mon GitHub plusieurs projets illustrant mes compétences en P
 
 
 ### 📌 chess
+voir la démonstration du projet sur : https://youtu.be/F8p1iA_LZQ0
 [Voir le projet sur GitHub](https://github.com/Eyedolretro/chess)
 
 **Description courte :** Application Python structurée en mode MVC (Modèle, Vue, Contrôleur) permettant de gérer une base de données complète d’un championnat d’échecs, incluant joueurs, parties et résultats.
