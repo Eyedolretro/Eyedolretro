@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Eyedolretro
+# 👋 Bonjour, je suis Florian Aganahi
 
 ## 🐍 Développeur Python
 
@@ -55,6 +55,7 @@ Voir la démonstration du projet sur :https://youtu.be/78tS371jfiQ
 - Gestion des données JSON et affichage dynamique
 
 ### 📌 django-critique
+Voir la démonstration du projet : https://youtu.be/miPYn8WJPjE?si=fCfp9c8hVr6B1Nmv
 [Voir le projet sur GitHub](https://github.com/Eyedolretro/django-critique)
 
 **Description courte :** Application web en Python/Django permettant de créer un profil utilisateur, publier et consulter des critiques de livres, et suivre l’activité des autres utilisateurs, un peu comme un réseau social pour les amateurs de livres.
